@@ -1,0 +1,11 @@
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\bin\Debug\uts.exe
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\bin\Debug\uts.pdb
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\bin\Debug\uts.xml
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.frmLogin.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.dataMasterForm.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.Resources.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.exe
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.xml
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.pdb
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\uts\obj\x86\Debug\uts.dataMahasiswaForm.resources

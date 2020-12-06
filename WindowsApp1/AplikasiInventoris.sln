@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AplikasiInventoris", "AplikasiInventoris.vbproj", "{BE969EFC-A124-46D3-B28E-DF4817B43495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE969EFC-A124-46D3-B28E-DF4817B43495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE969EFC-A124-46D3-B28E-DF4817B43495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE969EFC-A124-46D3-B28E-DF4817B43495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE969EFC-A124-46D3-B28E-DF4817B43495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

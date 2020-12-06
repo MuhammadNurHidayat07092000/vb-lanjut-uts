@@ -1,0 +1,7 @@
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\WindowsApp1\bin\Release\WindowsApp1.exe.config
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\WindowsApp1\obj\Release\AplikasiInventoris.vbprojResolveAssemblyReference.cache
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\WindowsApp1\obj\Release\WindowsApp1.dataBarangForm.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\WindowsApp1\obj\Release\WindowsApp1.dataMasterForm.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\WindowsApp1\obj\Release\WindowsApp1.formLogin.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\uts\WindowsApp1\obj\Release\AplikasiInventoris.vbproj.GenerateResource.Cache
